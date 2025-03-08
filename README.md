@@ -3,7 +3,7 @@
 <a href="https://github.com/DataWithOmer" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/omer-faisal-3853a02b4/" target="_blank">
+<a href="https://linkedin.com/in/omer-faisal-3853a02b4/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/omerfaisal" target="_blank">
@@ -12,37 +12,47 @@
 
 ---
 
-### 👋 Glad to see you here!  
-I’m a **Data Analyst Enthusiast** who enjoys working with data to uncover insights.  
+### Glad to see you here!  
+👋 Hi, I'm a Data Analyst passionate about turning data into meaningful insights!  
 
-I have skills in **SQL, Excel, Power BI, and DAX**, which help me analyze complex datasets, design interactive dashboards, and support data-driven decision-making.  
+With a strong foundation in **SQL, Excel, Power BI, and DAX**, I analyze complex datasets, design interactive dashboards, and uncover trends that drive data-informed decision-making.  
 
 ---
 
-### 🔹 What I Can Do:  
-✔ **SQL:** Writing queries to extract, organize, and analyze data.  
-✔ **Excel:** Using formulas, pivot tables, and data cleaning techniques.  
-✔ **Power BI & DAX:** Building interactive dashboards and writing calculations to analyze data.  
-✔ **Data Visualization & Reporting:** Creating clear, insightful reports to help businesses make informed decisions.  
+### 🔹 What I Do:  
+✔ **SQL**: Writing efficient queries, optimizing performance, and working with databases to extract and manipulate data.  
+
+✔ **Excel**: Using formulas, pivot tables, data cleaning techniques, and exploratory data analysis (EDA).  
+
+✔ **Power BI & DAX**: Developing dynamic dashboards, creating calculated measures, and leveraging analytics to tell a compelling story with data.  
+
+✔ **Data Visualization & Reporting**: Creating insightful reports that help stakeholders make business decisions backed by data.  
 
 ---
 
 ### 🚀 What Drives Me?  
-I enjoy learning, problem-solving, and using data to create meaningful insights. I like working on projects, tackling challenges, and continuously improving my skills.  
-
-💡 I’m open to learning, sharing ideas, and collaborating on projects. Let’s connect and grow together!  
+I am passionate about continuous learning, problem-solving, and using data to find useful insights. I enjoy tackling challenges and discovering insights that can help businesses make better decisions.  
 
 ---
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" /></a>  
-<a href="[https://www.microsoft.com/en-us/microsoft-365/excel](https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_512px.png)" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" height="50" /></a>  
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img style="margin: 10px" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_512px.png" alt="Excel" height="50" />
+</a>  
+<a href="https://www.mysql.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+</a>  
+<a href="https://www.postgresql.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+</a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" />
+</a>  
 </div>  
 
 ---
 
+<br />
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
