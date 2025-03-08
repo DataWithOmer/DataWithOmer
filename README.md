@@ -43,14 +43,4 @@ I enjoy learning, problem-solving, and using data to create meaningful insights.
 </div>  
 
 ---
-
-## GitHub Stats  
-<table><tr><td valign="top" width="50%">  
-<img src="https://github-readme-stats.vercel.app/api?username=DataWithOmer&show_icons=true&theme=radical" alt="GitHub Stats" />  
-</td><td valign="top" width="50%">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataWithOmer&layout=compact&theme=radical" alt="Top Languages" />  
-</td></tr></table>  
-
----
-
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a></div>
