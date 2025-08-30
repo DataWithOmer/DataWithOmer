@@ -36,18 +36,18 @@ I enjoy learning, problem-solving, and using data to create meaningful insights.
 
 ## Languages and Tools  
 <div align="center">
-  <img src="image-removebg-preview.png" alt="Excel" height="50" style="margin: 10px"/>  
+  <img src="image-removebg-preview.png" alt="Excel" height="50" style="margin: 20px"/>  
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin: 10px"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin: 20px"/>
   </a>  
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" style="margin: 10px"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" style="margin: 20px"/>
   </a>  
-  <img src="image-removebg-preview-1.png" alt="Power BI" height="50" style="margin: 10px"/>  
+  <img src="image-removebg-preview-1.png" alt="Power BI" height="50" style="margin: 20px"/>  
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 20px"/>
   </a>  
-  <img src="ubuntu-removebg-preview.png" alt="Ubuntu" height="50" style="margin: 10px"/> 
+  <img src="ubuntu-removebg-preview.png" alt="Ubuntu" height="50" style="margin: 20px"/> 
 </div>
 ---
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a></div>
