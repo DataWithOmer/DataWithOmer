@@ -49,6 +49,5 @@ I enjoy learning, problem-solving, and using data to create meaningful insights.
   </a>  
   <img src="ubuntu-removebg-preview.png" alt="Ubuntu" height="50" style="margin: 10px"/> 
 </div>
-  
-
+---
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a></div>
